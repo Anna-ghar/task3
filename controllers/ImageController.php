@@ -1,6 +1,6 @@
 <?php
 
-require_once '../models/model.php';
+require_once '../models/ImageResize.php';
 
 class ImageController
 {
